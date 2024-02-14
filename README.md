@@ -1,2 +1,2 @@
 # discord-token
-Discord token collector. 
+## Discord token collector. 
